@@ -1,0 +1,16 @@
+﻿  cglab_prg8.cpp
+C:\Users\umesh\source\repos\cglab_prg8\cglab_prg8\cglab_prg8.cpp(36,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg8\cglab_prg8\cglab_prg8.cpp(65,34): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg8\cglab_prg8\cglab_prg8.cpp(66,34): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg8\cglab_prg8\cglab_prg8.cpp(67,34): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg8\cglab_prg8\cglab_prg8.cpp(68,34): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg8\cglab_prg8\cglab_prg8.cpp(69,34): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg8\cglab_prg8\cglab_prg8.cpp(70,34): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg8\cglab_prg8\cglab_prg8.cpp(74,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\umesh\source\repos\cglab_prg8\cglab_prg8\cglab_prg8.cpp(74,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\umesh\source\repos\cglab_prg8\cglab_prg8\cglab_prg8.cpp(77,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\umesh\source\repos\cglab_prg8\cglab_prg8\cglab_prg8.cpp(83,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\umesh\source\repos\cglab_prg8\cglab_prg8\cglab_prg8.cpp(89,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\umesh\source\repos\cglab_prg8\cglab_prg8\cglab_prg8.cpp(94,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\umesh\source\repos\cglab_prg8\cglab_prg8\cglab_prg8.cpp(94,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  cglab_prg8.vcxproj -> C:\Users\umesh\source\repos\cglab_prg8\x64\Debug\cglab_prg8.exe

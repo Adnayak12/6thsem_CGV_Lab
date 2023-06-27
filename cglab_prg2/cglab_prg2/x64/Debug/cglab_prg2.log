@@ -1,0 +1,14 @@
+﻿  cglab_prg2.cpp
+C:\Users\umesh\source\repos\cglab_prg2\cglab_prg2\cglab_prg2.cpp(18,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg2\cglab_prg2\cglab_prg2.cpp(18,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg2\cglab_prg2\cglab_prg2.cpp(19,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg2\cglab_prg2\cglab_prg2.cpp(19,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg2\cglab_prg2\cglab_prg2.cpp(20,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg2\cglab_prg2\cglab_prg2.cpp(20,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg2\cglab_prg2\cglab_prg2.cpp(37,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg2\cglab_prg2\cglab_prg2.cpp(38,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg2\cglab_prg2\cglab_prg2.cpp(41,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg2\cglab_prg2\cglab_prg2.cpp(41,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg2\cglab_prg2\cglab_prg2.cpp(46,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg2\cglab_prg2\cglab_prg2.cpp(46,11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  cglab_prg2.vcxproj -> C:\Users\umesh\source\repos\cglab_prg2\x64\Debug\cglab_prg2.exe

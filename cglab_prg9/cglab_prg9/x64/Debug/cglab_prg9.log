@@ -1,0 +1,5 @@
+﻿  cglab_prg9.cpp
+C:\Users\umesh\source\repos\cglab_prg9\cglab_prg9\cglab_prg9.cpp(24,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg9\cglab_prg9\cglab_prg9.cpp(27,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg9\cglab_prg9\cglab_prg9.cpp(29,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  cglab_prg9.vcxproj -> C:\Users\umesh\source\repos\cglab_prg9\x64\Debug\cglab_prg9.exe

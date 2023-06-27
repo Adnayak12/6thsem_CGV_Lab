@@ -1,0 +1,18 @@
+﻿  cglab_prg6.cpp
+C:\Users\umesh\source\repos\cglab_prg6\cglab_prg6\cglab_prg6.cpp(13,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\umesh\source\repos\cglab_prg6\cglab_prg6\cglab_prg6.cpp(13,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\umesh\source\repos\cglab_prg6\cglab_prg6\cglab_prg6.cpp(21,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\umesh\source\repos\cglab_prg6\cglab_prg6\cglab_prg6.cpp(21,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\umesh\source\repos\cglab_prg6\cglab_prg6\cglab_prg6.cpp(21,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\umesh\source\repos\cglab_prg6\cglab_prg6\cglab_prg6.cpp(29,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\umesh\source\repos\cglab_prg6\cglab_prg6\cglab_prg6.cpp(44,32): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\umesh\source\repos\cglab_prg6\cglab_prg6\cglab_prg6.cpp(44,37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\umesh\source\repos\cglab_prg6\cglab_prg6\cglab_prg6.cpp(44,42): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\umesh\source\repos\cglab_prg6\cglab_prg6\cglab_prg6.cpp(50,18): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\umesh\source\repos\cglab_prg6\cglab_prg6\cglab_prg6.cpp(50,37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\umesh\source\repos\cglab_prg6\cglab_prg6\cglab_prg6.cpp(50,56): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\umesh\source\repos\cglab_prg6\cglab_prg6\cglab_prg6.cpp(57,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\umesh\source\repos\cglab_prg6\cglab_prg6\cglab_prg6.cpp(58,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\umesh\source\repos\cglab_prg6\cglab_prg6\cglab_prg6.cpp(59,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\umesh\source\repos\cglab_prg6\cglab_prg6\cglab_prg6.cpp(60,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  cglab_prg6.vcxproj -> C:\Users\umesh\source\repos\cglab_prg6\x64\Debug\cglab_prg6.exe

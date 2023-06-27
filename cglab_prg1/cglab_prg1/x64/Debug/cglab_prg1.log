@@ -1,0 +1,10 @@
+﻿  cglab_prg1.cpp
+C:\Users\umesh\source\repos\cglab_prg1\cglab_prg1\cglab_prg1.cpp(13,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg1\cglab_prg1\cglab_prg1.cpp(14,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg1\cglab_prg1\cglab_prg1.cpp(18,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg1\cglab_prg1\cglab_prg1.cpp(34,54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg1\cglab_prg1\cglab_prg1.cpp(40,54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg1\cglab_prg1\cglab_prg1.cpp(47,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg1\cglab_prg1\cglab_prg1.cpp(63,54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\umesh\source\repos\cglab_prg1\cglab_prg1\cglab_prg1.cpp(69,54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  cglab_prg1.vcxproj -> C:\Users\umesh\source\repos\cglab_prg1\x64\Debug\cglab_prg1.exe
