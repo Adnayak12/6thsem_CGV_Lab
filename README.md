@@ -1,8 +1,8 @@
-### Computer_Graphics_and_Visualization_Laboratory 
+# Computer_Graphics_and_Visualization_Laboratory 
 
 These are the OpenGL and C++ programs in the Computer Graphics and Visualization Laboratory VTU 18 Scheme syllabus for the 6th semester. 
 
-# Programe details:
+## Programe details:
 
 1. Implement Brenham‟s line drawing algorithm for all types of slope.
 2. Create and rotate a triangle about the origin and a fixed point.
